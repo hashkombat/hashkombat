@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520">
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#4FBF83"/>
+<stop offset="14%" stop-color="#72C95A"/>
+<stop offset="28%" stop-color="#C6B83F"/>
+<stop offset="43%" stop-color="#D99A45"/>
+<stop offset="57%" stop-color="#E68155"/>
+<stop offset="71%" stop-color="#E66D6D"/>
+<stop offset="85%" stop-color="#E96879"/>
+<stop offset="100%" stop-color="#E96896"/>
+</linearGradient>
+<style>
+.t{font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:600;fill:url(#g)}
+.h{font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:url(#g)}
+.s{font-family:Arial,Helvetica,sans-serif;font-size:13px;fill:url(#g)}
+</style>
+</defs>
+<text x="12" y="30" class="h">about                 hash</text>
+<text x="12" y="68" class="t">𓈒 hashké    凛修       it thing he       18yo</text>
+<text x="12" y="101" class="t">𓈒 nonhuman    native  -  eng. nav. 中文. asl.</text>
+<text x="12" y="170" class="h">before you int</text>
+<text x="12" y="207" class="t">i have periods of inactivity on all medias &amp;</text>
+<text x="12" y="236" class="t">sometimes don't have time to respond on them.</text>
+<text x="12" y="265" class="t">diagnosed asd/did/sza-bt that will 100% affect</text>
+<text x="12" y="294" class="t">all my interactions plus relationships.</text>
+<text x="12" y="330" class="s">only time mentioning, dont ask about them especially my sys.</text>
+<text x="12" y="370" class="t">aplatonicflx  picky / hard with keeping</text>
+<text x="12" y="399" class="t">conn. outside ponytown or in general.</text>
+<text x="12" y="428" class="t">but i love interactions, ok? ok.</text>
+<text x="12" y="457" class="t">ok c+h ok everything pt, ttgs NOT ok.</text>
+</svg>
