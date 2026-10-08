@@ -27,27 +27,6 @@
 
 ㅤㅤㅤㅤ<img src=https://files.catbox.moe/p66i9k.png width="40"> ㅤㅤ<img src=https://files.catbox.moe/pjbw77.png width="40"> ㅤㅤ<img src=https://files.catbox.moe/wux6jd.png width="40">
 
-ㅤㅤ  
-ㅤㅤ  
-**beforeㅤ ㅤ ㅤ ㅤ youㅤ ㅤ ㅤ ㅤ int**
-
-i have periods of inactivity on all medias &
-
-sometimes don't have time to respond on them.
-
-diagnosed asd/did/sza-bt that will 100% affect
-
-all my interactions plus relationships.
-
-<sup> only time mentioning, dont ask about them especially my sys. </sup>
-
-aplatonicflxㅤ picky / hard  with keeping
-
-conn. outside ponytown or in general.
-
-but i love interactions, ok? ok.
-
-c+h ok everything ok, but ttgs NOT ok.
 
 </td>
 </tr>
